@@ -1,18 +1,19 @@
-# Automation Frontend
+# API BackEnd
 
 ## Description
-This repository contains the frontend code for an automation project.
+This repository contains the frontend code for an API automation project.
 
 ## Framework Used
 - [ ] BDD with Cucumber
 - [ ] Page Object Model(POM)
+- [ ] Rest API 
 
 
 ## Technologies Used
 - [ ] Language -Java 
 
 ## Technologies Used
-- [ ] Selenium
+- [ ] REST ASSUERED
       
   ## Technologies Used
 - [ ] Windows
