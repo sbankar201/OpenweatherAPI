@@ -1,0 +1,6 @@
+apiUrl,https://api.openweathermap.org/data/2.5/weather
+apiKey,077231a6d3789e0a5f829f30c865794e
+city,Pune
+city,XYZ
+Invalid apikey,077231a6d3a5f829f30c865794e
+forcast ,https://api.openweathermap.org/data/2.5/forecast
